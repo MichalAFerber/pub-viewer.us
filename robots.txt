@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://pub-viewer.us/sitemap.xml
+Sitemap: https://pub-viewer.us/sitemap-index.xml
